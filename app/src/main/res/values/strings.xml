@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Navigation_GarciaLaura</string>
+    <string name="menu_title">Meals Menu</string>
+    <string name="btn_add_meal">Añadir plato</string>
+    <string name="btn_delete_meal">Eliminar plato</string>
+    <string name="btn_details_meal">Detalles del plato</string>
+    <string name="btn_search_meal">Buscar por título</string>
+    <string name="btn_list_meals">Listar platos</string>
+
+    <string name="title_add_meal">Añadir Plato</string>
+    <string name="title_delete_meal">Eliminar Plato</string>
+    <string name="title_details_meal">Detalles del Plato</string>
+    <string name="title_search_meal">Buscar Plato por Título</string>
+    <string name="title_list_meals">Lista de Platos</string>
+
+    <string name="hint_meal_name">Nombre del plato</string>
+    <string name="hint_meal_desc">Descripción</string>
+    <string name="hint_meal_category">Categoría</string>
+    <string name="btn_save">Guardar</string>
+    <string name="btn_delete">Eliminar</string>
+    <string name="btn_search">Buscar</string>
+</resources>
